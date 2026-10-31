@@ -1,0 +1,1261 @@
+[{
+  "rowType": "competitor_intelligence",
+  "evidenceId": "POST:t3_1xe5oxj",
+  "intelligenceType": "SWITCHING_SIGNAL",
+  "confidence": "LOW",
+  "brands": {
+    "primary": "Notion",
+    "mentioned": [
+      "Notion"
+    ]
+  },
+  "matchedBrands": [
+    {
+      "brand": "Notion",
+      "matchedAs": "Notion",
+      "matchType": "EXACT",
+      "confidence": "HIGH"
+    }
+  ],
+  "brandMatchConfidence": "HIGH",
+  "classification": [
+    "PRAISE",
+    "SWITCHING_INTENT",
+    "ALTERNATIVE_REQUEST",
+    "CHURN_RISK"
+  ],
+  "sentiment": "POSITIVE",
+  "sentimentConfidence": "MEDIUM",
+  "brandSentiments": [
+    {
+      "brand": "Notion",
+      "sentiment": "POSITIVE",
+      "sentimentScore": 0.25,
+      "sentimentConfidence": "MEDIUM",
+      "complaintThemes": [],
+      "praiseThemes": [
+        "COLLABORATION"
+      ]
+    }
+  ],
+  "comparison": null,
+  "recommendedBrands": [],
+  "notRecommendedBrands": [],
+  "alternativeTo": [
+    "Notion"
+  ],
+  "alternativeFor": [],
+  "switching": {
+    "from": "Notion",
+    "to": null,
+    "stage": "ASKING",
+    "confidence": "LOW",
+    "fromInferred": false,
+    "toInferred": false,
+    "reasons": []
+  },
+  "switchingSignals": [
+    {
+      "from": "Notion",
+      "to": null,
+      "stage": "ASKING",
+      "confidence": "LOW",
+      "fromInferred": false,
+      "toInferred": false,
+      "reasons": []
+    }
+  ],
+  "purchaseIntentScore": 20,
+  "complaintThemes": [],
+  "praiseThemes": [
+    "COLLABORATION"
+  ],
+  "featureRequest": null,
+  "targetBrand": null,
+  "featureRequests": [],
+  "commercialRelevanceScore": 76,
+  "urgency": "HIGH",
+  "evidenceWeight": 0.788,
+  "sourceAffiliation": null,
+  "matchedPhrases": [
+    "moved away from"
+  ],
+  "discoveredVia": [
+    "brand: \"Notion\" (relevance)"
+  ],
+  "source": {
+    "sourceType": "POST",
+    "postId": "1xe5oxj",
+    "commentId": null,
+    "parentCommentId": null,
+    "subreddit": "Notion",
+    "author": "Ella_Matthews49",
+    "title": "What Notion alternative did you actually stick with long term?",
+    "postTitle": "What Notion alternative did you actually stick with long term?",
+    "text": "I've been looking through Notion alternatives and there are way more options than I expected. The problem is most of them seem great at one thing but weaker somewhere else. Some are better for notes, others for databases, offline use, or collaboration, but I haven't found one that feels like a complete replacement. For anyone who actually moved away from Notion, what did you end up sticking with? Did one app replace it completely, or are you using a few different tools now?",
+    "textAvailable": true,
+    "url": "https://www.reddit.com/r/Notion/comments/1xe5oxj/what_notion_alternative_did_you_actually_stick/",
+    "createdAt": "2026-10-24T10:57:58.161Z",
+    "score": 72,
+    "upvoteRatio": 0.9390243902439024,
+    "commentCount": 100,
+    "flair": ":ai: Notion AI",
+    "parentPostId": null,
+    "parentPostTitle": null,
+    "parentPostUrl": null,
+    "crosspostSubreddits": []
+  },
+  "isNew": null,
+  "firstSeenAt": null,
+  "isBaseline": false,
+  "monitorKey": null,
+  "analysisVersion": "rules-1.0",
+  "scrapedAt": "2026-10-30T06:43:42.410Z"
+},
+{
+  "rowType": "competitor_intelligence",
+  "evidenceId": "POST:t3_1xivia2",
+  "intelligenceType": "SWITCHING_SIGNAL",
+  "confidence": "MEDIUM",
+  "brands": {
+    "primary": "Notion",
+    "mentioned": [
+      "Notion",
+      "Obsidian"
+    ]
+  },
+  "matchedBrands": [
+    {
+      "brand": "Notion",
+      "matchedAs": "Notion",
+      "matchType": "EXACT",
+      "confidence": "HIGH"
+    },
+    {
+      "brand": "Obsidian",
+      "matchedAs": "Obsidian",
+      "matchType": "EXACT",
+      "confidence": "HIGH"
+    }
+  ],
+  "brandMatchConfidence": "HIGH",
+  "classification": [
+    "COMPARISON",
+    "SWITCHING_INTENT",
+    "INTEGRATION_DISCUSSION"
+  ],
+  "sentiment": "NEGATIVE",
+  "sentimentConfidence": "LOW",
+  "brandSentiments": [
+    {
+      "brand": "Notion",
+      "sentiment": "NEGATIVE",
+      "sentimentScore": 0,
+      "sentimentConfidence": "LOW",
+      "complaintThemes": [
+        "MISSING_FEATURE",
+        "CUSTOMIZATION"
+      ],
+      "praiseThemes": []
+    },
+    {
+      "brand": "Obsidian",
+      "sentiment": "NEUTRAL",
+      "sentimentScore": 0,
+      "sentimentConfidence": "LOW",
+      "complaintThemes": [],
+      "praiseThemes": []
+    }
+  ],
+  "comparison": {
+    "preferredBrand": "Obsidian",
+    "disfavoredBrand": "Notion",
+    "comparisonReasons": [
+      "offline mode",
+      "automation",
+      "markdown",
+      "customization"
+    ],
+    "basis": "SWITCH",
+    "confidence": "MEDIUM"
+  },
+  "recommendedBrands": [],
+  "notRecommendedBrands": [],
+  "alternativeTo": [],
+  "alternativeFor": [],
+  "switching": {
+    "from": "Obsidian",
+    "to": "Notion",
+    "stage": "COMPLETED",
+    "confidence": "MEDIUM",
+    "fromInferred": true,
+    "toInferred": false,
+    "reasons": []
+  },
+  "switchingSignals": [
+    {
+      "from": "Obsidian",
+      "to": "Notion",
+      "stage": "COMPLETED",
+      "confidence": "MEDIUM",
+      "fromInferred": true,
+      "toInferred": false,
+      "reasons": []
+    },
+    {
+      "from": "Obsidian",
+      "to": "Notion",
+      "stage": "COMPLETED",
+      "confidence": "MEDIUM",
+      "fromInferred": true,
+      "toInferred": false,
+      "reasons": [
+        "ux",
+        "onboarding",
+        "pricing",
+        "design"
+      ]
+    },
+    {
+      "from": "Notion",
+      "to": "Obsidian",
+      "stage": "CONSIDERING",
+      "confidence": "LOW",
+      "fromInferred": true,
+      "toInferred": false,
+      "reasons": []
+    },
+    {
+      "from": "Notion",
+      "to": "Obsidian",
+      "stage": "CONSIDERING",
+      "confidence": "MEDIUM",
+      "fromInferred": false,
+      "toInferred": false,
+      "reasons": [
+        "offline mode",
+        "automation",
+        "markdown",
+        "customization"
+      ]
+    }
+  ],
+  "purchaseIntentScore": 15,
+  "complaintThemes": [
+    "MISSING_FEATURE",
+    "CUSTOMIZATION"
+  ],
+  "praiseThemes": [],
+  "featureRequest": null,
+  "targetBrand": null,
+  "featureRequests": [],
+  "commercialRelevanceScore": 65,
+  "urgency": "HIGH",
+  "evidenceWeight": 0.832,
+  "sourceAffiliation": null,
+  "matchedPhrases": [
+    "switching to"
+  ],
+  "discoveredVia": [
+    "brand: \"Notion\" (relevance)",
+    "brand: \"Obsidian\" (relevance)"
+  ],
+  "source": {
+    "sourceType": "POST",
+    "postId": "1xivia2",
+    "commentId": null,
+    "parentCommentId": null,
+    "subreddit": "Notion",
+    "author": "Kevin-James57",
+    "title": "I tried switching to Obsidian but went back to Notion",
+    "postTitle": "I tried switching to Obsidian but went back to Notion",
+    "text": "I recently tried switching from Notion to Obsidian because I liked the offline first approach customization and markdown workflow. I quickly found the setup more complicated than I expected. Getting the layout and organization I wanted required a lot of plugins and tweaking and syncing across devices was another hurdle. I eventually went back to Notion because I value having polished interface and organized workspace without much setup. For those who have tried both what made you stick with Obisidian or go back to Notion?",
+    "textAvailable": true,
+    "url": "https://www.reddit.com/r/Notion/comments/1xivia2/i_tried_switching_to_obsidian_but_went_back_to/",
+    "createdAt": "2026-10-29T20:38:08.906Z",
+    "score": 29,
+    "upvoteRatio": 0.9142857142857143,
+    "commentCount": 22,
+    "flair": ":community: Community",
+    "parentPostId": null,
+    "parentPostTitle": null,
+    "parentPostUrl": null,
+    "crosspostSubreddits": []
+  },
+  "isNew": null,
+  "firstSeenAt": null,
+  "isBaseline": false,
+  "monitorKey": null,
+  "analysisVersion": "rules-1.0",
+  "scrapedAt": "2026-10-30T06:43:42.410Z"
+},
+{
+  "rowType": "competitor_intelligence",
+  "evidenceId": "POST:t3_1wu6xml",
+  "intelligenceType": "COMPARISON_SIGNAL",
+  "confidence": "LOW",
+  "brands": {
+    "primary": "Notion",
+    "mentioned": [
+      "Notion",
+      "Obsidian"
+    ]
+  },
+  "matchedBrands": [
+    {
+      "brand": "Notion",
+      "matchedAs": "Notion",
+      "matchType": "EXACT",
+      "confidence": "HIGH"
+    },
+    {
+      "brand": "Obsidian",
+      "matchedAs": "Obsidian",
+      "matchType": "EXACT",
+      "confidence": "HIGH"
+    }
+  ],
+  "brandMatchConfidence": "HIGH",
+  "classification": [
+    "COMPARISON"
+  ],
+  "sentiment": "POSITIVE",
+  "sentimentConfidence": "MEDIUM",
+  "brandSentiments": [
+    {
+      "brand": "Notion",
+      "sentiment": "POSITIVE",
+      "sentimentScore": 0.43,
+      "sentimentConfidence": "MEDIUM",
+      "complaintThemes": [],
+      "praiseThemes": [
+        "OTHER"
+      ]
+    },
+    {
+      "brand": "Obsidian",
+      "sentiment": "POSITIVE",
+      "sentimentScore": 0.43,
+      "sentimentConfidence": "MEDIUM",
+      "complaintThemes": [],
+      "praiseThemes": [
+        "OTHER"
+      ]
+    }
+  ],
+  "comparison": null,
+  "recommendedBrands": [],
+  "notRecommendedBrands": [],
+  "alternativeTo": [],
+  "alternativeFor": [],
+  "switching": null,
+  "switchingSignals": [],
+  "purchaseIntentScore": 35,
+  "complaintThemes": [],
+  "praiseThemes": [
+    "OTHER"
+  ],
+  "featureRequest": null,
+  "targetBrand": null,
+  "featureRequests": [],
+  "commercialRelevanceScore": 36,
+  "urgency": "MEDIUM",
+  "evidenceWeight": 0.76,
+  "sourceAffiliation": null,
+  "matchedPhrases": [
+    "vs",
+    "would you recommend"
+  ],
+  "discoveredVia": [
+    "pair-vs: \"Notion vs Obsidian\""
+  ],
+  "source": {
+    "sourceType": "POST",
+    "postId": "1wu6xml",
+    "commentId": null,
+    "parentCommentId": null,
+    "subreddit": "TechImpact",
+    "author": "ManojOne",
+    "title": "Obsidian vs Notion - which one would you recommend to a new user?",
+    "postTitle": "Obsidian vs Notion - which one would you recommend to a new user?",
+    "text": "I’ve been looking at both, and they seem great for different reasons. Notion feels more approachable, while Obsidian seems interesting if you want to build a connected knowledge base. If you’ve used both, which would you suggest and why?",
+    "textAvailable": true,
+    "url": "https://www.reddit.com/r/TechImpact/comments/1wu6xml/obsidian_vs_notion_which_one_would_you_recommend/",
+    "createdAt": "2026-09-30T14:49:13.844Z",
+    "score": 43,
+    "upvoteRatio": 0.9574468085106383,
+    "commentCount": 58,
+    "flair": "💬 Discussion",
+    "parentPostId": null,
+    "parentPostTitle": null,
+    "parentPostUrl": null,
+    "crosspostSubreddits": []
+  },
+  "isNew": null,
+  "firstSeenAt": null,
+  "isBaseline": false,
+  "monitorKey": null,
+  "analysisVersion": "rules-1.0",
+  "scrapedAt": "2026-10-30T06:43:42.410Z"
+},
+{
+  "rowType": "competitor_intelligence",
+  "evidenceId": "COMMENT:t1_pgs8zlc",
+  "intelligenceType": "MENTION_EVIDENCE",
+  "confidence": "MEDIUM",
+  "brands": {
+    "primary": "Notion",
+    "mentioned": [
+      "Notion",
+      "Obsidian"
+    ]
+  },
+  "matchedBrands": [
+    {
+      "brand": "Notion",
+      "matchedAs": "Notion",
+      "matchType": "EXACT",
+      "confidence": "HIGH"
+    },
+    {
+      "brand": "Obsidian",
+      "matchedAs": "obsidian",
+      "matchType": "DOMAIN",
+      "confidence": "HIGH"
+    }
+  ],
+  "brandMatchConfidence": "HIGH",
+  "classification": [
+    "COMPARISON",
+    "INTEGRATION_DISCUSSION",
+    "SECURITY_PRIVACY"
+  ],
+  "sentiment": "NEUTRAL",
+  "sentimentConfidence": "MEDIUM",
+  "brandSentiments": [
+    {
+      "brand": "Notion",
+      "sentiment": "NEUTRAL",
+      "sentimentScore": 0,
+      "sentimentConfidence": "MEDIUM",
+      "complaintThemes": [],
+      "praiseThemes": []
+    },
+    {
+      "brand": "Obsidian",
+      "sentiment": "NEUTRAL",
+      "sentimentScore": 0,
+      "sentimentConfidence": "MEDIUM",
+      "complaintThemes": [],
+      "praiseThemes": []
+    }
+  ],
+  "comparison": null,
+  "recommendedBrands": [],
+  "notRecommendedBrands": [],
+  "alternativeTo": [],
+  "alternativeFor": [],
+  "switching": null,
+  "switchingSignals": [],
+  "purchaseIntentScore": 10,
+  "complaintThemes": [],
+  "praiseThemes": [],
+  "featureRequest": null,
+  "targetBrand": null,
+  "featureRequests": [],
+  "commercialRelevanceScore": 28,
+  "urgency": "MEDIUM",
+  "evidenceWeight": 0.745,
+  "sourceAffiliation": null,
+  "matchedPhrases": [
+    "sync is"
+  ],
+  "discoveredVia": [
+    "pair: \"Notion Obsidian\""
+  ],
+  "source": {
+    "sourceType": "COMMENT",
+    "postId": "1x64csd",
+    "commentId": "pgs8zlc",
+    "parentCommentId": null,
+    "subreddit": "ObsidianMD",
+    "author": "kepano",
+    "title": null,
+    "postTitle": "Is it bad to put important files in Obsidian?",
+    "text": "There is some nuance to this question. In the cloud, Obsidian Sync is end-to-end encrypted, which means your data is not accessible without your encryption password. This is a stronger form of encryption than most other apps or services use. Google, Dropbox, iCloud, Notion, generally do not end-to-end encrypt your data. Obsidian Sync is more private and secure than Google Spreadsheets, for example. On your device, most modern OSes automatically encrypt your data using disk encryption. This means someone who steals your computer or hard drive cannot access your data without your password. However, if someone is able to log into your device, then your data in Obsidian is just like any other folder on your computer. It's not like 1Password or Bitwarden that encrypts the data again locally. You need to use special software or plugins on top of Obsidian to do that. You can read more about the security and privacy of Obsidian here: https://obsidian.md/security",
+    "textAvailable": true,
+    "url": "https://www.reddit.com/r/ObsidianMD/comments/1x64csd/is_it_bad_to_put_important_files_in_obsidian/pgs8zlc/",
+    "createdAt": "2026-10-14T22:25:30.248Z",
+    "score": 1,
+    "upvoteRatio": null,
+    "commentCount": null,
+    "flair": null,
+    "parentPostId": "1x64csd",
+    "parentPostTitle": "Is it bad to put important files in Obsidian?",
+    "parentPostUrl": "https://www.reddit.com/r/ObsidianMD/comments/1x64csd/is_it_bad_to_put_important_files_in_obsidian/",
+    "crosspostSubreddits": []
+  },
+  "isNew": null,
+  "firstSeenAt": null,
+  "isBaseline": false,
+  "monitorKey": null,
+  "analysisVersion": "rules-1.0",
+  "scrapedAt": "2026-10-30T06:43:42.410Z"
+},
+{
+  "rowType": "competitor_intelligence",
+  "evidenceId": "COMMENT:t1_pd6c2go",
+  "intelligenceType": "PAIN_POINT",
+  "confidence": "LOW",
+  "brands": {
+    "primary": "Notion",
+    "mentioned": [
+      "Notion",
+      "Obsidian"
+    ]
+  },
+  "matchedBrands": [
+    {
+      "brand": "Notion",
+      "matchedAs": "notion",
+      "matchType": "EXACT",
+      "confidence": "LOW"
+    },
+    {
+      "brand": "Obsidian",
+      "matchedAs": "obsidian",
+      "matchType": "EXACT",
+      "confidence": "LOW"
+    }
+  ],
+  "brandMatchConfidence": "LOW",
+  "classification": [
+    "COMPLAINT"
+  ],
+  "sentiment": "MIXED",
+  "sentimentConfidence": "LOW",
+  "brandSentiments": [
+    {
+      "brand": "Notion",
+      "sentiment": "NEUTRAL",
+      "sentimentScore": 0,
+      "sentimentConfidence": "MEDIUM",
+      "complaintThemes": [],
+      "praiseThemes": []
+    },
+    {
+      "brand": "Obsidian",
+      "sentiment": "MIXED",
+      "sentimentScore": 0.11,
+      "sentimentConfidence": "LOW",
+      "complaintThemes": [
+        "OTHER"
+      ],
+      "praiseThemes": []
+    }
+  ],
+  "comparison": null,
+  "recommendedBrands": [],
+  "notRecommendedBrands": [],
+  "alternativeTo": [],
+  "alternativeFor": [],
+  "switching": null,
+  "switchingSignals": [],
+  "purchaseIntentScore": 0,
+  "complaintThemes": [
+    "OTHER"
+  ],
+  "praiseThemes": [],
+  "featureRequest": null,
+  "targetBrand": null,
+  "featureRequests": [],
+  "commercialRelevanceScore": 15,
+  "urgency": "MEDIUM",
+  "evidenceWeight": 0.529,
+  "sourceAffiliation": null,
+  "matchedPhrases": [
+    "absurd",
+    "love"
+  ],
+  "discoveredVia": [
+    "pair: \"Notion Obsidian\""
+  ],
+  "source": {
+    "sourceType": "COMMENT",
+    "postId": "1wuucd4",
+    "commentId": "pd6c2go",
+    "parentCommentId": null,
+    "subreddit": "Notion",
+    "author": "temporalcupcake",
+    "title": null,
+    "postTitle": "Can we please make r/Notion about cool Notion stuff again?",
+    "text": "Heartily agree. When I joined this sub, I had hoped to see interesting setups and new ideas on formulas or other ways to use it, maybe some tips and tricks along the way, the occasional crowd sourced problem-solving. You know, inspiration for things that I could use in my own setup. I'd honestly forgotten that was the hope. And the obsidian love is absurd. I use notion for the database, after airtable hit me with limits. It absolutely doesn't compare for my use case.",
+    "textAvailable": true,
+    "url": "https://www.reddit.com/r/Notion/comments/1wuucd4/can_we_please_make_rnotion_about_cool_notion/pd6c2go/",
+    "createdAt": "2026-10-01T09:30:01.147Z",
+    "score": 150,
+    "upvoteRatio": null,
+    "commentCount": null,
+    "flair": null,
+    "parentPostId": "1wuucd4",
+    "parentPostTitle": "Can we please make r/Notion about cool Notion stuff again?",
+    "parentPostUrl": "https://www.reddit.com/r/Notion/comments/1wuucd4/can_we_please_make_rnotion_about_cool_notion/",
+    "crosspostSubreddits": []
+  },
+  "isNew": null,
+  "firstSeenAt": null,
+  "isBaseline": false,
+  "monitorKey": null,
+  "analysisVersion": "rules-1.0",
+  "scrapedAt": "2026-10-30T06:43:42.410Z"
+},
+{
+  "rowType": "competitor_intelligence",
+  "evidenceId": "POST:t3_1xhkzuz",
+  "intelligenceType": "MENTION_EVIDENCE",
+  "confidence": "MEDIUM",
+  "brands": {
+    "primary": "Notion",
+    "mentioned": [
+      "Obsidian"
+    ]
+  },
+  "matchedBrands": [
+    {
+      "brand": "Obsidian",
+      "matchedAs": "Obsidian",
+      "matchType": "EXACT",
+      "confidence": "HIGH"
+    }
+  ],
+  "brandMatchConfidence": "HIGH",
+  "classification": [
+    "PRAISE"
+  ],
+  "sentiment": "POSITIVE",
+  "sentimentConfidence": "HIGH",
+  "brandSentiments": [
+    {
+      "brand": "Obsidian",
+      "sentiment": "POSITIVE",
+      "sentimentScore": 0.89,
+      "sentimentConfidence": "HIGH",
+      "complaintThemes": [],
+      "praiseThemes": [
+        "EASE_OF_USE",
+        "PERFORMANCE",
+        "DESIGN"
+      ]
+    }
+  ],
+  "comparison": null,
+  "recommendedBrands": [],
+  "notRecommendedBrands": [],
+  "alternativeTo": [],
+  "alternativeFor": [],
+  "switching": null,
+  "switchingSignals": [],
+  "purchaseIntentScore": 0,
+  "complaintThemes": [],
+  "praiseThemes": [
+    "EASE_OF_USE",
+    "PERFORMANCE",
+    "DESIGN"
+  ],
+  "featureRequest": null,
+  "targetBrand": null,
+  "featureRequests": [],
+  "commercialRelevanceScore": 10,
+  "urgency": "LOW",
+  "evidenceWeight": 0.901,
+  "sourceAffiliation": null,
+  "matchedPhrases": [
+    "love"
+  ],
+  "discoveredVia": [
+    "brand: \"Obsidian\" (relevance)"
+  ],
+  "source": {
+    "sourceType": "POST",
+    "postId": "1xhkzuz",
+    "commentId": null,
+    "parentCommentId": null,
+    "subreddit": "ObsidianMD",
+    "author": "OpenQuestline",
+    "title": "This is why I love Obsidian! And nothing can beat it.",
+    "postTitle": "This is why I love Obsidian! And nothing can beat it.",
+    "text": "I am in my mid-40s. I used to design user interfaces, but since I got laid off and am too old to have a hard time getting new projects due to most UI work right now being done with AI. I decided to focus on my YT gaming channel. Obsidian has helped me focus on the plan and production of long-and short-form videos. It's not much right now, but it gives me spirit,and I can enjoy things that I love. So far so good, I see improvement, but still lots things to do. One thing that makes Obsidian winning is that the markdown format makes it easier for AI agents to do wonders. And we can benefit from that, like making custom dashboards, organizing files, finding context faster, and integrating the md files with other apps. I still do get some small design projects, of course using AI to help with design, so I can have more time edit the videos 😆. !img",
+    "textAvailable": true,
+    "url": "https://www.reddit.com/r/ObsidianMD/comments/1xhkzuz/this_is_why_i_love_obsidian_and_nothing_can_beat/",
+    "createdAt": "2026-10-28T11:02:41.658Z",
+    "score": 335,
+    "upvoteRatio": 0.926208651399491,
+    "commentCount": 33,
+    "flair": "showcase",
+    "parentPostId": null,
+    "parentPostTitle": null,
+    "parentPostUrl": null,
+    "crosspostSubreddits": []
+  },
+  "isNew": null,
+  "firstSeenAt": null,
+  "isBaseline": false,
+  "monitorKey": null,
+  "analysisVersion": "rules-1.0",
+  "scrapedAt": "2026-10-30T06:43:42.410Z"
+},
+{
+  "rowType": "competitor_intelligence",
+  "evidenceId": "COMMENT:t1_19rs3pf96n0sg",
+  "intelligenceType": "MENTION_EVIDENCE",
+  "confidence": "MEDIUM",
+  "brands": {
+    "primary": "Notion",
+    "mentioned": [
+      "Obsidian"
+    ]
+  },
+  "matchedBrands": [
+    {
+      "brand": "Obsidian",
+      "matchedAs": "Obsidian",
+      "matchType": "EXACT",
+      "confidence": "HIGH"
+    }
+  ],
+  "brandMatchConfidence": "HIGH",
+  "classification": [
+    "INTEGRATION_DISCUSSION"
+  ],
+  "sentiment": "NEUTRAL",
+  "sentimentConfidence": "MEDIUM",
+  "brandSentiments": [
+    {
+      "brand": "Obsidian",
+      "sentiment": "NEUTRAL",
+      "sentimentScore": 0,
+      "sentimentConfidence": "MEDIUM",
+      "complaintThemes": [],
+      "praiseThemes": []
+    }
+  ],
+  "comparison": null,
+  "recommendedBrands": [],
+  "notRecommendedBrands": [],
+  "alternativeTo": [],
+  "alternativeFor": [],
+  "switching": null,
+  "switchingSignals": [],
+  "purchaseIntentScore": 0,
+  "complaintThemes": [],
+  "praiseThemes": [],
+  "featureRequest": null,
+  "targetBrand": null,
+  "featureRequests": [],
+  "commercialRelevanceScore": 10,
+  "urgency": "LOW",
+  "evidenceWeight": 0.871,
+  "sourceAffiliation": null,
+  "matchedPhrases": [],
+  "discoveredVia": [
+    "brand: \"Obsidian\" (relevance)"
+  ],
+  "source": {
+    "sourceType": "COMMENT",
+    "postId": "1xhkzuz",
+    "commentId": "19rs3pf96n0sg",
+    "parentCommentId": null,
+    "subreddit": "ObsidianMD",
+    "author": "cebedev",
+    "title": null,
+    "postTitle": "This is why I love Obsidian! And nothing can beat it.",
+    "text": "Agreed, but I'd argue the real win isn't markdown itself, it's that an Obsidian vault is just a folder of plain files.An agent like Claude Code doesn't need an API or a plugin to work with it: it can read, search, rewrite and create files with the most basic tools. Markdown adds to that (LLMs are fluent in it, YAML frontmatter gives you structured metadata for free), but markdown locked inside a database wouldn't give you the same superpower.One caveat: if you let an agent reorganize your vault, put it under git first. Silent damage across hundreds of notes is easy to miss.",
+    "textAvailable": true,
+    "url": "https://www.reddit.com/r/ObsidianMD/comments/1xhkzuz/comment/19rs3pf96n0sg/",
+    "createdAt": "2026-10-28T12:10:56.019Z",
+    "score": 121,
+    "upvoteRatio": null,
+    "commentCount": null,
+    "flair": null,
+    "parentPostId": "1xhkzuz",
+    "parentPostTitle": "This is why I love Obsidian! And nothing can beat it.",
+    "parentPostUrl": "https://www.reddit.com/r/ObsidianMD/comments/1xhkzuz/this_is_why_i_love_obsidian_and_nothing_can_beat/",
+    "crosspostSubreddits": []
+  },
+  "isNew": null,
+  "firstSeenAt": null,
+  "isBaseline": false,
+  "monitorKey": null,
+  "analysisVersion": "rules-1.0",
+  "scrapedAt": "2026-10-30T06:43:42.410Z"
+},
+{
+  "rowType": "competitor_intelligence",
+  "evidenceId": "POST:t3_1xgwmgv",
+  "intelligenceType": "MENTION_EVIDENCE",
+  "confidence": "MEDIUM",
+  "brands": {
+    "primary": "Notion",
+    "mentioned": [
+      "Obsidian"
+    ]
+  },
+  "matchedBrands": [
+    {
+      "brand": "Obsidian",
+      "matchedAs": "Obsidian",
+      "matchType": "EXACT",
+      "confidence": "HIGH"
+    }
+  ],
+  "brandMatchConfidence": "HIGH",
+  "classification": [
+    "GENERAL_MENTION"
+  ],
+  "sentiment": "NEUTRAL",
+  "sentimentConfidence": "MEDIUM",
+  "brandSentiments": [
+    {
+      "brand": "Obsidian",
+      "sentiment": "NEUTRAL",
+      "sentimentScore": 0,
+      "sentimentConfidence": "MEDIUM",
+      "complaintThemes": [],
+      "praiseThemes": []
+    }
+  ],
+  "comparison": null,
+  "recommendedBrands": [],
+  "notRecommendedBrands": [],
+  "alternativeTo": [],
+  "alternativeFor": [],
+  "switching": null,
+  "switchingSignals": [],
+  "purchaseIntentScore": 0,
+  "complaintThemes": [],
+  "praiseThemes": [],
+  "featureRequest": null,
+  "targetBrand": null,
+  "featureRequests": [],
+  "commercialRelevanceScore": 10,
+  "urgency": "LOW",
+  "evidenceWeight": 0.854,
+  "sourceAffiliation": null,
+  "matchedPhrases": [],
+  "discoveredVia": [
+    "brand: \"Obsidian\" (relevance)"
+  ],
+  "source": {
+    "sourceType": "POST",
+    "postId": "1xgwmgv",
+    "commentId": null,
+    "parentCommentId": null,
+    "subreddit": "ObsidianMD",
+    "author": "Ambitious_Ad4397",
+    "title": "What you don't/can't use Obsidian for?",
+    "postTitle": "What you don't/can't use Obsidian for?",
+    "text": "I use it for almost everything; my projects, todo lists, journals, workouts logs, diagrams, mindmaps, calendars, contacts, etc.. But I'm curious, what you can't use it for, and why?",
+    "textAvailable": true,
+    "url": "https://www.reddit.com/r/ObsidianMD/comments/1xgwmgv/what_you_dontcant_use_obsidian_for/",
+    "createdAt": "2026-10-27T16:05:49.209Z",
+    "score": 67,
+    "upvoteRatio": 0.9135802469135802,
+    "commentCount": 129,
+    "flair": "help",
+    "parentPostId": null,
+    "parentPostTitle": null,
+    "parentPostUrl": null,
+    "crosspostSubreddits": []
+  },
+  "isNew": null,
+  "firstSeenAt": null,
+  "isBaseline": false,
+  "monitorKey": null,
+  "analysisVersion": "rules-1.0",
+  "scrapedAt": "2026-10-30T06:43:42.410Z"
+},
+{
+  "rowType": "competitor_intelligence",
+  "evidenceId": "COMMENT:t1_pd0kqdh",
+  "intelligenceType": "MENTION_EVIDENCE",
+  "confidence": "MEDIUM",
+  "brands": {
+    "primary": "Notion",
+    "mentioned": [
+      "Notion",
+      "Obsidian"
+    ]
+  },
+  "matchedBrands": [
+    {
+      "brand": "Notion",
+      "matchedAs": "Notion",
+      "matchType": "EXACT",
+      "confidence": "HIGH"
+    },
+    {
+      "brand": "Obsidian",
+      "matchedAs": "Obsidian",
+      "matchType": "EXACT",
+      "confidence": "HIGH"
+    }
+  ],
+  "brandMatchConfidence": "HIGH",
+  "classification": [
+    "GENERAL_MENTION"
+  ],
+  "sentiment": "NEUTRAL",
+  "sentimentConfidence": "MEDIUM",
+  "brandSentiments": [
+    {
+      "brand": "Notion",
+      "sentiment": "NEUTRAL",
+      "sentimentScore": 0,
+      "sentimentConfidence": "MEDIUM",
+      "complaintThemes": [],
+      "praiseThemes": []
+    },
+    {
+      "brand": "Obsidian",
+      "sentiment": "NEUTRAL",
+      "sentimentScore": 0,
+      "sentimentConfidence": "MEDIUM",
+      "complaintThemes": [],
+      "praiseThemes": []
+    }
+  ],
+  "comparison": null,
+  "recommendedBrands": [],
+  "notRecommendedBrands": [],
+  "alternativeTo": [],
+  "alternativeFor": [],
+  "switching": null,
+  "switchingSignals": [],
+  "purchaseIntentScore": 0,
+  "complaintThemes": [],
+  "praiseThemes": [],
+  "featureRequest": null,
+  "targetBrand": null,
+  "featureRequests": [],
+  "commercialRelevanceScore": 10,
+  "urgency": "LOW",
+  "evidenceWeight": 0.805,
+  "sourceAffiliation": null,
+  "matchedPhrases": [],
+  "discoveredVia": [
+    "pair-vs: \"Notion vs Obsidian\""
+  ],
+  "source": {
+    "sourceType": "COMMENT",
+    "postId": "1wu6xml",
+    "commentId": "pd0kqdh",
+    "parentCommentId": null,
+    "subreddit": "TechImpact",
+    "author": "khaluud",
+    "title": null,
+    "postTitle": "Obsidian vs Notion - which one would you recommend to a new user?",
+    "text": "You don't own your notes in Notion. Obsidian is simply a way to manage Markdown files, which is preferable for data ownership.",
+    "textAvailable": true,
+    "url": "https://www.reddit.com/r/TechImpact/comments/1wu6xml/comment/pd0kqdh/",
+    "createdAt": "2026-09-30T14:58:14.864Z",
+    "score": 20,
+    "upvoteRatio": null,
+    "commentCount": null,
+    "flair": null,
+    "parentPostId": "1wu6xml",
+    "parentPostTitle": "Obsidian vs Notion - which one would you recommend to a new user?",
+    "parentPostUrl": "https://www.reddit.com/r/TechImpact/comments/1wu6xml/obsidian_vs_notion_which_one_would_you_recommend/",
+    "crosspostSubreddits": []
+  },
+  "isNew": null,
+  "firstSeenAt": null,
+  "isBaseline": false,
+  "monitorKey": null,
+  "analysisVersion": "rules-1.0",
+  "scrapedAt": "2026-10-30T06:43:42.410Z"
+},
+{
+  "rowType": "competitor_intelligence",
+  "evidenceId": "POST:t3_1xgu03n",
+  "intelligenceType": "MENTION_EVIDENCE",
+  "confidence": "MEDIUM",
+  "brands": {
+    "primary": "Notion",
+    "mentioned": [
+      "Obsidian"
+    ]
+  },
+  "matchedBrands": [
+    {
+      "brand": "Obsidian",
+      "matchedAs": "Obsidian",
+      "matchType": "EXACT",
+      "confidence": "HIGH"
+    }
+  ],
+  "brandMatchConfidence": "HIGH",
+  "classification": [
+    "PRAISE"
+  ],
+  "sentiment": "POSITIVE",
+  "sentimentConfidence": "HIGH",
+  "brandSentiments": [
+    {
+      "brand": "Obsidian",
+      "sentiment": "POSITIVE",
+      "sentimentScore": 0.78,
+      "sentimentConfidence": "HIGH",
+      "complaintThemes": [],
+      "praiseThemes": [
+        "COLLABORATION",
+        "AUTOMATION"
+      ]
+    }
+  ],
+  "comparison": null,
+  "recommendedBrands": [],
+  "notRecommendedBrands": [],
+  "alternativeTo": [],
+  "alternativeFor": [],
+  "switching": null,
+  "switchingSignals": [],
+  "purchaseIntentScore": 0,
+  "complaintThemes": [],
+  "praiseThemes": [
+    "COLLABORATION",
+    "AUTOMATION"
+  ],
+  "featureRequest": null,
+  "targetBrand": null,
+  "featureRequests": [],
+  "commercialRelevanceScore": 10,
+  "urgency": "LOW",
+  "evidenceWeight": 0.732,
+  "sourceAffiliation": null,
+  "matchedPhrases": [],
+  "discoveredVia": [
+    "brand: \"Obsidian\" (relevance)"
+  ],
+  "source": {
+    "sourceType": "POST",
+    "postId": "1xgu03n",
+    "commentId": null,
+    "parentCommentId": null,
+    "subreddit": "ObsidianMD",
+    "author": "JobOdd7262",
+    "title": "I want to get into using Obsidian, but I can't get what it's actually good for",
+    "postTitle": "I want to get into using Obsidian, but I can't get what it's actually good for",
+    "text": "I guess it's all about my workflow and my needs, but if you could share your own use cases, or how you use Obsidian in your own professional/personal life, it would be super helpful for me to get the hang of it!",
+    "textAvailable": true,
+    "url": "https://www.reddit.com/r/ObsidianMD/comments/1xgu03n/i_want_to_get_into_using_obsidian_but_i_cant_get/",
+    "createdAt": "2026-10-27T14:26:57.052Z",
+    "score": 0,
+    "upvoteRatio": 0.41935483870967744,
+    "commentCount": 31,
+    "flair": "help",
+    "parentPostId": null,
+    "parentPostTitle": null,
+    "parentPostUrl": null,
+    "crosspostSubreddits": []
+  },
+  "isNew": null,
+  "firstSeenAt": null,
+  "isBaseline": false,
+  "monitorKey": null,
+  "analysisVersion": "rules-1.0",
+  "scrapedAt": "2026-10-30T06:43:42.410Z"
+},
+{
+  "rowType": "competitor_intelligence",
+  "evidenceId": "COMMENT:t1_phbb5or",
+  "intelligenceType": "PAIN_POINT",
+  "confidence": "LOW",
+  "brands": {
+    "primary": "Notion",
+    "mentioned": [
+      "Notion",
+      "Obsidian"
+    ]
+  },
+  "matchedBrands": [
+    {
+      "brand": "Notion",
+      "matchedAs": "notion",
+      "matchType": "EXACT",
+      "confidence": "LOW"
+    },
+    {
+      "brand": "Obsidian",
+      "matchedAs": "obsidian",
+      "matchType": "EXACT",
+      "confidence": "LOW"
+    }
+  ],
+  "brandMatchConfidence": "LOW",
+  "classification": [
+    "PERFORMANCE_RELIABILITY"
+  ],
+  "sentiment": "NEUTRAL",
+  "sentimentConfidence": "MEDIUM",
+  "brandSentiments": [
+    {
+      "brand": "Notion",
+      "sentiment": "NEUTRAL",
+      "sentimentScore": 0,
+      "sentimentConfidence": "MEDIUM",
+      "complaintThemes": [
+        "BUGS"
+      ],
+      "praiseThemes": []
+    },
+    {
+      "brand": "Obsidian",
+      "sentiment": "NEUTRAL",
+      "sentimentScore": 0,
+      "sentimentConfidence": "MEDIUM",
+      "complaintThemes": [
+        "BUGS"
+      ],
+      "praiseThemes": []
+    }
+  ],
+  "comparison": null,
+  "recommendedBrands": [],
+  "notRecommendedBrands": [],
+  "alternativeTo": [],
+  "alternativeFor": [],
+  "switching": null,
+  "switchingSignals": [],
+  "purchaseIntentScore": 0,
+  "complaintThemes": [
+    "BUGS"
+  ],
+  "praiseThemes": [],
+  "featureRequest": null,
+  "targetBrand": null,
+  "featureRequests": [],
+  "commercialRelevanceScore": 5,
+  "urgency": "LOW",
+  "evidenceWeight": 0.503,
+  "sourceAffiliation": null,
+  "matchedPhrases": [
+    "bugs"
+  ],
+  "discoveredVia": [
+    "pair: \"Notion Obsidian\""
+  ],
+  "source": {
+    "sourceType": "COMMENT",
+    "postId": "1x8bz1f",
+    "commentId": "phbb5or",
+    "parentCommentId": null,
+    "subreddit": "gamedev",
+    "author": "Mr_LoFtY",
+    "title": null,
+    "postTitle": "What’s something that professional projects do that you rarely see in hobby projects?",
+    "text": "Source control, working on a verticle slice, using a development tool like azure, jira, trello, obsidian, or notion to track dev tasks, log bugs, and keep things organized. Having a todo list full of items to complete.",
+    "textAvailable": true,
+    "url": "https://www.reddit.com/r/gamedev/comments/1x8bz1f/whats_something_that_professional_projects_do/phbb5or/",
+    "createdAt": "2026-10-17T14:50:37.131Z",
+    "score": 43,
+    "upvoteRatio": null,
+    "commentCount": null,
+    "flair": null,
+    "parentPostId": "1x8bz1f",
+    "parentPostTitle": "What’s something that professional projects do that you rarely see in hobby projects?",
+    "parentPostUrl": "https://www.reddit.com/r/gamedev/comments/1x8bz1f/whats_something_that_professional_projects_do/",
+    "crosspostSubreddits": []
+  },
+  "isNew": null,
+  "firstSeenAt": null,
+  "isBaseline": false,
+  "monitorKey": null,
+  "analysisVersion": "rules-1.0",
+  "scrapedAt": "2026-10-30T06:43:42.410Z"
+},
+{
+  "rowType": "competitor_intelligence",
+  "evidenceId": "COMMENT:t1_19ruizqodpgo5",
+  "intelligenceType": "MENTION_EVIDENCE",
+  "confidence": "LOW",
+  "brands": {
+    "primary": "Notion",
+    "mentioned": [
+      "Obsidian"
+    ]
+  },
+  "matchedBrands": [
+    {
+      "brand": "Obsidian",
+      "matchedAs": "obsidian",
+      "matchType": "EXACT",
+      "confidence": "LOW"
+    }
+  ],
+  "brandMatchConfidence": "LOW",
+  "classification": [
+    "INTEGRATION_DISCUSSION"
+  ],
+  "sentiment": "NEUTRAL",
+  "sentimentConfidence": "MEDIUM",
+  "brandSentiments": [
+    {
+      "brand": "Obsidian",
+      "sentiment": "NEUTRAL",
+      "sentimentScore": 0,
+      "sentimentConfidence": "MEDIUM",
+      "complaintThemes": [],
+      "praiseThemes": []
+    }
+  ],
+  "comparison": null,
+  "recommendedBrands": [],
+  "notRecommendedBrands": [],
+  "alternativeTo": [],
+  "alternativeFor": [],
+  "switching": null,
+  "switchingSignals": [],
+  "purchaseIntentScore": 0,
+  "complaintThemes": [],
+  "praiseThemes": [],
+  "featureRequest": null,
+  "targetBrand": null,
+  "featureRequests": [],
+  "commercialRelevanceScore": 5,
+  "urgency": "LOW",
+  "evidenceWeight": 0.48,
+  "sourceAffiliation": null,
+  "matchedPhrases": [],
+  "discoveredVia": [
+    "brand: \"Notion\" (relevance)",
+    "brand: \"Obsidian\" (relevance)"
+  ],
+  "source": {
+    "sourceType": "COMMENT",
+    "postId": "1xivia2",
+    "commentId": "19ruizqodpgo5",
+    "parentCommentId": null,
+    "subreddit": "Notion",
+    "author": "Ok_Meringue_3520",
+    "title": null,
+    "postTitle": "I tried switching to Obsidian but went back to Notion",
+    "text": "tried obsidian for a month, the plugin rabbit hole ate up more time than actual note-taking ever did",
+    "textAvailable": true,
+    "url": "https://www.reddit.com/r/Notion/comments/1xivia2/comment/19ruizqodpgo5/",
+    "createdAt": "2026-10-29T20:47:54.817Z",
+    "score": 15,
+    "upvoteRatio": null,
+    "commentCount": null,
+    "flair": null,
+    "parentPostId": "1xivia2",
+    "parentPostTitle": "I tried switching to Obsidian but went back to Notion",
+    "parentPostUrl": "https://www.reddit.com/r/Notion/comments/1xivia2/i_tried_switching_to_obsidian_but_went_back_to/",
+    "crosspostSubreddits": []
+  },
+  "isNew": null,
+  "firstSeenAt": null,
+  "isBaseline": false,
+  "monitorKey": null,
+  "analysisVersion": "rules-1.0",
+  "scrapedAt": "2026-10-30T06:43:42.410Z"
+}]
